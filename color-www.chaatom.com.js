@@ -27,7 +27,7 @@ $('.room.borderg.hand.nosel.fl')['css']({
     borderRadius: '5px'
 });
 $('.corner.fa.fa-user.label.label-primary.fr.uc')['css']('border-radius', '5px');
-$['getScript']('https://rawcdn.githack.com/waleed-qaid/des/be9e1d25a3f5960e1ab57e2dca7fd843952cdfbe/www.1des.net-chatt-www.s6acl.com-color1.js');
+$['getScript']('https://raw.githubusercontent.com/samoydesign/chaatom.com/master/chatt-www.s6acl.com-color1.js');
 $('.nav-tabs')['addClass']('fl')['css']('width', '100%');
 $('.nav-tabs')['addClass']('fl')['css']('width', '100%');
 $('a[href="https://jawalhost.com/"]')['removeAttr']('href');
